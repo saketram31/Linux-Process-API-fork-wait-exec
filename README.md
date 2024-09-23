@@ -2,8 +2,8 @@
 Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
 Operating systems Lab exercise
-# REG NO : 212223230192
-# NAME : SANTHIYA R
+# REG NO : 212223230181
+# NAME : SAKETRAM.R
 
 # AIM:
 To write C Program that uses Linux Process API - fork(), wait(), exec()
